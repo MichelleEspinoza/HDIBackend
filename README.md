@@ -25,7 +25,7 @@ PostgreSQL 15.12
 BCrypt.Net
 Node 22.22.0
 
-📋 Changelog
+## 📋 Changelog
 ## 🚀 Primeros pasos
 1. **Instalar dependencias:**
    ```bash
