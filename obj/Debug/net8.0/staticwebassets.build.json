@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MrRxgvm0BhsrTkyHFyOFj9Wsm9ldJUvoTMGxknndKK0=",
+  "Source": "HdiBackend",
+  "BasePath": "_content/HdiBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

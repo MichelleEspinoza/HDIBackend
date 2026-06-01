@@ -1,0 +1,6 @@
+@HdiBackend_HostAddress = http://localhost:5094
+
+GET {{HdiBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
